@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">U1Tema2EjercicioPropuesto</string>
+    <string name="tituloAplicacion">Ejercicio Propuesto</string>
+    <string name="opcion1">Lista de Canciones</string>
+    <string name="opcion3">Login</string>
+    <string name="Salir">Salir</string>
 </resources>
