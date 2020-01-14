@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public void escucharCancion(View view) {
         startActivity(new Intent(this, Main2Activity.class));
     }
+
+    public void Login(View view) {
+        startActivity(new Intent(this, menu1.class));
+    }
 }
